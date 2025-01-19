@@ -1,6 +1,5 @@
 # 💫 About Me:
-Undergraduate student building impactful products.<br>Turning ideas into real-world solutions.<br><br><br><br><br><br><br>
-
+Undergraduate student building impactful products.<br>Turning ideas into real-world solutions.<br><br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aadiexii) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aadiexii) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/aadiexii) 
